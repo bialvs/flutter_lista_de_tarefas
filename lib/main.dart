@@ -10,8 +10,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp( // MaterialApp: widget principal, onde temos traduções, datas e vários outros parâmetros
-      home: ToDoListPage(), //home: tela inicial
+    return const MaterialApp( // MaterialApp: widget principal, onde temos traduções, datas e vários outros parâmetros
+    debugShowCheckedModeBanner: false,
+      home: TodoListPage(), //home: tela inicial
     );
   }
 }
