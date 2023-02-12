@@ -25,4 +25,6 @@ O projeto foi desenvolvido para dar os primeiros passos no flutter com o auxíli
 
 O aplicativo consiste em uma lista de tarefas simples, onde o usuário pode adicionar ou excluir uma tarefa a qualquer momento.
 
+![todolist1](https://user-images.githubusercontent.com/107438747/218335724-d8744705-fbc7-410b-813d-ad53901910e4.png)
+
 
